@@ -224,35 +224,35 @@ input, select, textarea {
 	}
 
 
-	h2#bloco-1 {
+	h3#bloco-1 {
 
 		background-color: #FDEF6F;
-		width: 44%;
+		width: 28%;
 
 	}
 
 
-	h2#bloco-2, h2#bloco-4 {
+	h3#bloco-2, h3#bloco-4 {
 
 		background-color: #B40B00;
 		color: ghostwhite;
-		width: 38%;
+		width: 23%;
 
 	}
 
 
-	h2#bloco-3 {
+	h3#bloco-3 {
 
 		background-color: #FDEF6F;
-		width: 76%;
+		width: 48%;
 
 	}
 
 
-	h2#bloco-5 {
+	h3#bloco-5 {
 
 		background-color: #FDEF6F;
-		width: 100%;
+		width: 69%;
 
 	}
 
