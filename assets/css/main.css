@@ -65,34 +65,52 @@ body {
 /* Basic */
 
 	@-ms-viewport {
+
 		width: device-width;
+
 	}
 
+
 	body {
+
 		-ms-overflow-style: scrollbar;
+
 	}
+
 
 	@media screen and (max-width: 480px) {
 
 		html, body {
-			min-width: 320px;
-		}
 
+			min-width: 320px;
+
+		}
 	}
+
 
 	html {
+
 		box-sizing: border-box;
+
 	}
+
 
 	*, *:before, *:after {
+
 		box-sizing: inherit;
+
 	}
+
 
 	body {
+
 		background: #312450;
+
 	}
 
+
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
+
 			-moz-animation: none !important;
 			-webkit-animation: none !important;
 			-ms-animation: none !important;
@@ -101,8 +119,10 @@ body {
 			-webkit-transition: none !important;
 			-ms-transition: none !important;
 			transition: none !important;
+
 		}
 
+		
 /* Type */
 
 	body, input, select, textarea {
